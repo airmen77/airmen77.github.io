@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/img/outline-info-24px.ff1dee6e.svg"
   },
   {
-    "revision": "61a92883c99746653149",
-    "url": "/js/app.38ca0ebd.js"
+    "revision": "d9ffdc86d227a6dcc95f",
+    "url": "/js/app.269dc4d1.js"
   },
   {
     "revision": "33858b00bb07acb932d2",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/js/about.2cb58bd9.js"
   },
   {
-    "revision": "f19cfbc387ead5e360d3e333b1c8aaae",
+    "revision": "d184f8b09679ddcd48bfb67706c2db5c",
     "url": "/index.html"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/img/apple-touch-icon.c9151033.png"
   },
   {
-    "revision": "61a92883c99746653149",
-    "url": "/css/app.a4c199c0.css"
+    "revision": "d9ffdc86d227a6dcc95f",
+    "url": "/css/app.96aaa7a8.css"
   }
 ];

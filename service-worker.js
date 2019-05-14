@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.1f083a341c6a26350ff48f53c7402832.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
+importScripts("/precache-manifest.999ef2aa2705bd5ef51aeef415db442f.js", "https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 console.log('PWA Service-worker')
 // Должно быть true в production
