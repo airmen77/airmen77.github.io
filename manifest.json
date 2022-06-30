@@ -1,21 +1,16 @@
 {
-  "name": "test-pwa",
-  "short_name": "test-pwa",
+  "name": "",
+  "short_name": "",
   "icons": [
     {
-      "src": "./img/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "./img/icons/android-chrome-512x512.png",
-      "sizes": "512x512",
+      "src": "./img/icons/logo.png",
+      "sizes": "206x43",
       "type": "image/png"
     }
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "orientation": "any",
-  "theme_color": "#4DBA87"
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "theme_color": "#00a97b"
 }
