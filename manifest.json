@@ -3,9 +3,14 @@
   "short_name": "UKRSIB",
   "icons": [
     {
-      "src": "./img/icons/logo.png",
-      "sizes": "206x43",
-      "type": "image/png"
+      "src": "./img/icons/logo-255x255.jpg",
+      "sizes": "255x255",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "./img/icons/logo-512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
     }
   ],
   "start_url": "./index.html",
